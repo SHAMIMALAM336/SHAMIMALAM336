@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHAMIMALAM336
 - 👀 I’m interested in ...coding 
 - 🌱 I’m currently learning ...python 
-- 💞️ I’m looking to collaborate on ...ISRO
+- 💞️ I’m looking to collaborate with GOOGLE
 - 📫 How to reach me ...@ShamimA16240520
 
 <!---
