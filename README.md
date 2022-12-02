@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHAMIMALAM336
 - 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ...python 
+- 🌱 I’m currently learning ...python and c  
 - 💞️ I’m looking to collaborate with GOOGLE
 - 📫 How to reach me ...shamimalam270@gmail.com
 
